@@ -1,0 +1,22 @@
+pinMode(number_connectedtopin,OUTPUT)
+
+pinmode(0,OUTPUT) - pin 0 connected
+
+
+
+1. to set up
+
+void setup(){
+
+}
+
+
+2. to run
+
+digitalWrite(number_connectedtopin,LOW) - led
+
+3. to loop 
+
+void loop(){
+
+}
