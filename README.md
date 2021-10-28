@@ -2,7 +2,7 @@
 
 
 
-ArduinoElectronicMusic
+ArduinoElectronic
 
 microcontroller.
 
