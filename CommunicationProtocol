@@ -1,0 +1,22 @@
+serial protocol
+-  uses one or two transmission lines to send and receive data, and that data is continuously sent and received one bit at a time.
+
+1. uart 
+- tx and rx
+- 2 wire above
+-asynchronous protocol and using baud speed. 9600baud speed =9600bits per seconds
+-baud speed,data length,start bit,stop bit,parity bit 
+-most significant bits, 
+
+
+2. i2c
+
+-synchronous protocol
+-sda-RX & TX,scl - clock
+- 2wire above
+
+3.spi 
+
+-SCK (Serial Clock Line), MISO (Master Out Slave In)- TX, MOSI (Master In Slave Out)-RX, and SS/CS (Chip Select).
+-4 wires above
+- synchronous protocol using frequency
