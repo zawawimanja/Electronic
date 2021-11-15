@@ -20,3 +20,9 @@ digitalWrite(number_connectedtopin,LOW) - led
 void loop(){
 
 }
+
+
+
+-connect to the gnd - ground
+
+
